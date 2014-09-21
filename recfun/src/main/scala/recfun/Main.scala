@@ -25,18 +25,17 @@ object Main {
     * Exercise 2
    */
   def balance(chars: List[Char]): Boolean = {
-    def balanceImpl(chars: List[Char], stack: List[Char]): Boolean = {
-      if (chars.isEmpty) stack.isEmpty
-      else balanceImpl(chars.tail, maybePushOrPopOffStack(stack, chars.head))
+    def balanceImpl(chars: List[Char], numOpens: Int): Boolean = {
+      if (chars.isEmpty || numOpens < 0) numOpens == 0
+      else balanceImpl(chars.tail, maybePushOrPopOffStack(numOpens, chars.head))
     }
-    def maybePushOrPopOffStack(chars: List[Char], c: Char): List[Char] = {
-      if (c == '(') chars :+ c
-      else if (c == ')' && chars.nonEmpty && chars.last == '(') chars.tail
-      else if (c == ')') chars :+ c
-      else chars
+    def maybePushOrPopOffStack(numOpens: Int, c: Char): Int = {
+      if (c == '(') numOpens + 1
+      else if (c == ')') numOpens - 1
+      else numOpens
     }
 
-    balanceImpl(chars, List())
+    balanceImpl(chars, 0)
   }
 
   /**
