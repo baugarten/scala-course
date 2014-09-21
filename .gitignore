@@ -1,5 +1,5 @@
-*/.idea
-*/project/target
-*/target
-*/*/target
-*/*/*/target
+.idea
+.classpath
+.project
+.settings/
+target/
