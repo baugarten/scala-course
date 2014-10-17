@@ -1,0 +1,2881 @@
+{
+  "streams": [
+    {
+      "id": 46519,
+      "account_id": 323,
+      "product_enrollment_id": 3026,
+      "product_name": "Decahose",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/streams/decahose/decahose.json",
+      "label": "decahose",
+      "created_date": "2014-02-13T18:55:49Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46974,
+      "account_id": 343,
+      "product_enrollment_id": 3342,
+      "product_name": "Decahose",
+      "external_href": "/accounts/AccountsAPIIntegrationTestAccount/publishers/twitter/streams/decahose/decahose.json",
+      "label": "decahose",
+      "created_date": "2014-05-16T20:43:55Z",
+      "compliance_enabled_date": "2014-04-01T22:36:11Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47235,
+      "account_id": 366,
+      "product_enrollment_id": 3457,
+      "product_name": "Decahose",
+      "external_href": "/accounts/EventApiComplianceApiTestAccount/publishers/twitter/streams/decahose/decahose.json",
+      "label": "decahose",
+      "created_date": "2014-07-21T19:48:41Z",
+      "compliance_enabled_date": "2014-07-18T20:17:20Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 2825,
+      "account_id": 286,
+      "product_enrollment_id": 906,
+      "product_name": "Decahose",
+      "external_href": "/accounts/ewendelin/publishers/twitter/streams/decahose/LeDecahose.json",
+      "label": "LeDecahose",
+      "created_date": "2013-03-27T15:29:18Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46637,
+      "account_id": 331,
+      "product_enrollment_id": 3120,
+      "product_name": "Decahose",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/streams/decahose/prod.json",
+      "label": "prod",
+      "created_date": "2014-03-10T18:02:00Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47091,
+      "account_id": 357,
+      "product_enrollment_id": 3390,
+      "product_name": "Decahose",
+      "external_href": "/accounts/dabbas/publishers/twitter/streams/decahose/test.json",
+      "label": "test",
+      "created_date": "2014-06-18T17:19:37Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/decahose",
+        "display_name": "Decahose",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47102,
+      "account_id": 357,
+      "product_enrollment_id": 3390,
+      "product_name": "Decahose",
+      "external_href": "/accounts/dabbas/publishers/twitter/replay/decahose/bar.json",
+      "label": "bar",
+      "created_date": "2014-06-20T21:31:25Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/decahose_replay",
+        "display_name": "Decahose Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46753,
+      "account_id": 323,
+      "product_enrollment_id": 3022,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/streams/geotrack/dev.json",
+      "label": "dev",
+      "created_date": "2014-04-04T15:58:19Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/geotrack",
+        "display_name": "GeoTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46734,
+      "account_id": 343,
+      "product_enrollment_id": 3178,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/AccountsAPIIntegrationTestAccount/publishers/twitter/streams/geotrack/geoTrack.json",
+      "label": "geoTrack",
+      "created_date": "2014-04-02T03:13:47Z",
+      "compliance_enabled_date": "2014-04-01T22:36:11Z",
+      "stream_type": {
+        "name": "twitter/geotrack",
+        "display_name": "GeoTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46397,
+      "account_id": 2,
+      "product_enrollment_id": 2884,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/streams/geotrack/test.json",
+      "label": "test",
+      "created_date": "2014-01-13T18:36:12Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/geotrack",
+        "display_name": "GeoTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47415,
+      "account_id": 2,
+      "product_enrollment_id": 2990,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/historical/track/12xcfner5g.json",
+      "label": "12xcfner5g",
+      "created_date": "2014-08-28T18:59:40Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47379,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/16y4ftsybp.json",
+      "label": "16y4ftsybp",
+      "created_date": "2014-08-19T22:25:56Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4279,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/1a8r4b5ja7.json",
+      "label": "1a8r4b5ja7",
+      "created_date": "2013-06-27T17:08:02Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4263,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/1f2hw70qe5.json",
+      "label": "1f2hw70qe5",
+      "created_date": "2013-06-26T17:21:36Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4131,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/1svb22x5m9.json",
+      "label": "1svb22x5m9",
+      "created_date": "2013-05-24T17:07:41Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4295,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/2j5x6axytk.json",
+      "label": "2j5x6axytk",
+      "created_date": "2013-06-27T21:55:14Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47503,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/2sm71ewtgq.json",
+      "label": "2sm71ewtgq",
+      "created_date": "2014-09-25T19:07:10Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4244,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/381dp34kkk.json",
+      "label": "381dp34kkk",
+      "created_date": "2013-06-25T17:36:48Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47321,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/3njjn0sm46.json",
+      "label": "3njjn0sm46",
+      "created_date": "2014-08-04T22:27:10Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4256,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/442qxbqmst.json",
+      "label": "442qxbqmst",
+      "created_date": "2013-06-26T15:13:19Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4291,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/4adgjzvsb5.json",
+      "label": "4adgjzvsb5",
+      "created_date": "2013-06-27T21:17:33Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47398,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/4fvphkd0e.json",
+      "label": "4fvphkd0e",
+      "created_date": "2014-08-22T20:49:24Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4241,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/52x7dbawch.json",
+      "label": "52x7dbawch",
+      "created_date": "2013-06-25T16:52:08Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47383,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/5jhj25x0jt.json",
+      "label": "5jhj25x0jt",
+      "created_date": "2014-08-19T22:37:37Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4247,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/637mpnbgt7.json",
+      "label": "637mpnbgt7",
+      "created_date": "2013-06-25T18:31:52Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47308,
+      "account_id": 2,
+      "product_enrollment_id": 2990,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/historical/track/6gv1ynx4jx.json",
+      "label": "6gv1ynx4jx",
+      "created_date": "2014-07-31T15:27:06Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4243,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/6ndt7n4yc4.json",
+      "label": "6ndt7n4yc4",
+      "created_date": "2013-06-25T17:07:40Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47384,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/6pe0hd52gx.json",
+      "label": "6pe0hd52gx",
+      "created_date": "2014-08-19T22:44:58Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47388,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/6v2n8rjnd2.json",
+      "label": "6v2n8rjnd2",
+      "created_date": "2014-08-20T20:59:20Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47501,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/6zynpyaben.json",
+      "label": "6zynpyaben",
+      "created_date": "2014-09-25T18:14:04Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4275,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/7g279ys5dq.json",
+      "label": "7g279ys5dq",
+      "created_date": "2013-06-27T16:35:31Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4254,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/7jr38bwynf.json",
+      "label": "7jr38bwynf",
+      "created_date": "2013-06-25T19:25:45Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4280,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/7pytzdpqcd.json",
+      "label": "7pytzdpqcd",
+      "created_date": "2013-06-27T19:24:44Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47552,
+      "account_id": 357,
+      "product_enrollment_id": 3549,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/dabbas/publishers/twitter/historical/track/89nc9skx81.json",
+      "label": "89nc9skx81",
+      "created_date": "2014-10-10T20:39:12Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47380,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/8q9a3w2k04.json",
+      "label": "8q9a3w2k04",
+      "created_date": "2014-08-19T22:27:59Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4290,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/9mrx54ssm9.json",
+      "label": "9mrx54ssm9",
+      "created_date": "2013-06-27T20:39:35Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47510,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/abzq5m17gj.json",
+      "label": "abzq5m17gj",
+      "created_date": "2014-09-26T20:09:41Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47432,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/afz3x5fhxj.json",
+      "label": "afz3x5fhxj",
+      "created_date": "2014-09-04T22:54:16Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4345,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ap1jxwj1qs.json",
+      "label": "ap1jxwj1qs",
+      "created_date": "2013-07-05T23:09:23Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4286,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/b38qcvt5w4.json",
+      "label": "b38qcvt5w4",
+      "created_date": "2013-06-27T20:05:42Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47350,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/bam7y70s56.json",
+      "label": "bam7y70s56",
+      "created_date": "2014-08-12T17:20:56Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47413,
+      "account_id": 2,
+      "product_enrollment_id": 2990,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/historical/track/bpdnphwf1d.json",
+      "label": "bpdnphwf1d",
+      "created_date": "2014-08-28T17:17:31Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47538,
+      "account_id": 332,
+      "product_enrollment_id": 3551,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/historical/track/bwkz7vdnrk.json",
+      "label": "bwkz7vdnrk",
+      "created_date": "2014-10-06T19:02:01Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4284,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/c70g6jjp3h.json",
+      "label": "c70g6jjp3h",
+      "created_date": "2013-06-27T20:02:06Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47511,
+      "account_id": 357,
+      "product_enrollment_id": 3549,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/dabbas/publishers/twitter/historical/track/c81k596f65.json",
+      "label": "c81k596f65",
+      "created_date": "2014-09-26T20:54:57Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4249,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/cgqfxmprfe.json",
+      "label": "cgqfxmprfe",
+      "created_date": "2013-06-25T18:51:14Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4267,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/cwsj03q2cy.json",
+      "label": "cwsj03q2cy",
+      "created_date": "2013-06-26T23:28:15Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4282,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/d7537gwtp2.json",
+      "label": "d7537gwtp2",
+      "created_date": "2013-06-27T19:59:16Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4296,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/d7g7q3pnja.json",
+      "label": "d7g7q3pnja",
+      "created_date": "2013-06-27T21:57:34Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4285,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/d9rg6qqh8v.json",
+      "label": "d9rg6qqh8v",
+      "created_date": "2013-06-27T20:04:12Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47349,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/drej5z2vyk.json",
+      "label": "drej5z2vyk",
+      "created_date": "2014-08-12T17:19:37Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4261,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/e0hrdpq4ec.json",
+      "label": "e0hrdpq4ec",
+      "created_date": "2013-06-26T16:11:58Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4292,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ea1a6b8b9w.json",
+      "label": "ea1a6b8b9w",
+      "created_date": "2013-06-27T21:18:30Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4287,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ea99x8vtwv.json",
+      "label": "ea99x8vtwv",
+      "created_date": "2013-06-27T20:37:00Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4258,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ehx5qaad9j.json",
+      "label": "ehx5qaad9j",
+      "created_date": "2013-06-26T15:42:11Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4289,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ew8591wkh4.json",
+      "label": "ew8591wkh4",
+      "created_date": "2013-06-27T20:38:46Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4293,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ez0axa29cb.json",
+      "label": "ez0axa29cb",
+      "created_date": "2013-06-27T21:19:21Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47334,
+      "account_id": 2,
+      "product_enrollment_id": 2990,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/historical/track/f9npwqshzh.json",
+      "label": "f9npwqshzh",
+      "created_date": "2014-08-08T19:58:54Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4130,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/fznb3g86p6.json",
+      "label": "fznb3g86p6",
+      "created_date": "2013-05-24T16:26:45Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47382,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/g3bna5hd28.json",
+      "label": "g3bna5hd28",
+      "created_date": "2014-08-19T22:33:22Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4250,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/gd0eec1bw1.json",
+      "label": "gd0eec1bw1",
+      "created_date": "2013-06-25T18:53:23Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47535,
+      "account_id": 332,
+      "product_enrollment_id": 3551,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/historical/track/jhqegz3shv.json",
+      "label": "jhqegz3shv",
+      "created_date": "2014-10-06T17:45:55Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4283,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/jvbp0wb78m.json",
+      "label": "jvbp0wb78m",
+      "created_date": "2013-06-27T20:00:37Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4276,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/k4spjk9xv1.json",
+      "label": "k4spjk9xv1",
+      "created_date": "2013-06-27T16:36:25Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47331,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/k6vzxmjy8z.json",
+      "label": "k6vzxmjy8z",
+      "created_date": "2014-08-08T15:17:50Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47376,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/k8dt7amnt.json",
+      "label": "k8dt7amnt",
+      "created_date": "2014-08-19T21:29:01Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4274,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/kbcg26a90k.json",
+      "label": "kbcg26a90k",
+      "created_date": "2013-06-27T16:34:17Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47389,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/kwp00reps4.json",
+      "label": "kwp00reps4",
+      "created_date": "2014-08-20T21:01:06Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4253,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/med2wdb2p4.json",
+      "label": "med2wdb2p4",
+      "created_date": "2013-06-25T19:24:23Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4266,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/mk4c4d677c.json",
+      "label": "mk4c4d677c",
+      "created_date": "2013-06-26T23:26:30Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4264,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/mq5a0yj665.json",
+      "label": "mq5a0yj665",
+      "created_date": "2013-06-26T19:14:13Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4246,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/mynch4bx21.json",
+      "label": "mynch4bx21",
+      "created_date": "2013-06-25T18:24:52Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47505,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/n1f3fm61th.json",
+      "label": "n1f3fm61th",
+      "created_date": "2014-09-26T15:51:05Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47348,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/n899cvz7m6.json",
+      "label": "n899cvz7m6",
+      "created_date": "2014-08-12T17:18:58Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47312,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/n8fvk0ryv3.json",
+      "label": "n8fvk0ryv3",
+      "created_date": "2014-08-01T15:56:54Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4242,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/nnzhz18z3e.json",
+      "label": "nnzhz18z3e",
+      "created_date": "2013-06-25T16:58:36Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47375,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/nsk78mfgr0.json",
+      "label": "nsk78mfgr0",
+      "created_date": "2014-08-19T17:25:06Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47387,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/nskhgn8cpy.json",
+      "label": "nskhgn8cpy",
+      "created_date": "2014-08-20T20:58:31Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4277,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/nv7ztnfw7k.json",
+      "label": "nv7ztnfw7k",
+      "created_date": "2013-06-27T16:55:01Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4269,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/pczde90jx7.json",
+      "label": "pczde90jx7",
+      "created_date": "2013-06-26T23:30:38Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4278,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/pjmfc9wmnq.json",
+      "label": "pjmfc9wmnq",
+      "created_date": "2013-06-27T17:07:06Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4271,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/pm9h8ajq5.json",
+      "label": "pm9h8ajq5",
+      "created_date": "2013-06-27T15:42:12Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47506,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/qhdnk7s8qm.json",
+      "label": "qhdnk7s8qm",
+      "created_date": "2014-09-26T15:51:42Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4270,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/qv10ngfgzh.json",
+      "label": "qv10ngfgzh",
+      "created_date": "2013-06-27T15:40:41Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47512,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/qvh6dq0xdt.json",
+      "label": "qvh6dq0xdt",
+      "created_date": "2014-09-26T22:08:56Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4281,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/r2emar4scm.json",
+      "label": "r2emar4scm",
+      "created_date": "2013-06-27T19:54:40Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47381,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/rb09pbfrgg.json",
+      "label": "rb09pbfrgg",
+      "created_date": "2014-08-19T22:32:11Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4265,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/rjmr15j2es.json",
+      "label": "rjmr15j2es",
+      "created_date": "2013-06-26T21:10:55Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4262,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/rtzxzy4a7x.json",
+      "label": "rtzxzy4a7x",
+      "created_date": "2013-06-26T16:42:57Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4288,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/s8z3e0h3sf.json",
+      "label": "s8z3e0h3sf",
+      "created_date": "2013-06-27T20:38:01Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47377,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/sb4r42f1za.json",
+      "label": "sb4r42f1za",
+      "created_date": "2014-08-19T21:32:51Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4245,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/sbt656zx4p.json",
+      "label": "sbt656zx4p",
+      "created_date": "2013-06-25T18:13:38Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47526,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/scc2p9wzk2.json",
+      "label": "scc2p9wzk2",
+      "created_date": "2014-10-02T16:39:04Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47509,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/sfdn4nctj9.json",
+      "label": "sfdn4nctj9",
+      "created_date": "2014-09-26T20:01:31Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4268,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/tejqf4nvpt.json",
+      "label": "tejqf4nvpt",
+      "created_date": "2013-06-26T23:29:24Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 2912,
+      "account_id": 286,
+      "product_enrollment_id": 630,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/thpt.json",
+      "label": "thpt",
+      "created_date": "2013-04-16T23:23:57Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47541,
+      "account_id": 332,
+      "product_enrollment_id": 3551,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/historical/track/tm3xm9fck9.json",
+      "label": "tm3xm9fck9",
+      "created_date": "2014-10-06T21:48:23Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4294,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/ty9k9m6z2b.json",
+      "label": "ty9k9m6z2b",
+      "created_date": "2013-06-27T21:54:08Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47364,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/vjg47xyhzv.json",
+      "label": "vjg47xyhzv",
+      "created_date": "2014-08-14T22:27:04Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4257,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/vs0v13qkzd.json",
+      "label": "vs0v13qkzd",
+      "created_date": "2013-06-26T15:23:47Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4248,
+      "account_id": 286,
+      "product_enrollment_id": 957,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ewendelin/publishers/twitter/historical/track/w2ne48j4j8.json",
+      "label": "w2ne48j4j8",
+      "created_date": "2013-06-25T18:33:10Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47551,
+      "account_id": 357,
+      "product_enrollment_id": 3549,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/dabbas/publishers/twitter/historical/track/w4zrk7ng9.json",
+      "label": "w4zrk7ng9",
+      "created_date": "2014-10-10T17:26:22Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47513,
+      "account_id": 334,
+      "product_enrollment_id": 3545,
+      "product_name": "Historical PowerTrack Subscription",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/historical/track/wbem1efqa6.json",
+      "label": "wbem1efqa6",
+      "created_date": "2014-09-26T22:21:27Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track_historical",
+        "display_name": "Historical PowerTrack",
+        "delivery_type": "historical",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47223,
+      "account_id": 366,
+      "product_enrollment_id": 3450,
+      "product_name": "Partner",
+      "external_href": "/accounts/EventApiComplianceApiTestAccount/publishers/twitter/streams/partner/EventApiComplianceApiTestPartnerAccount-twitterPartnerEventApiLabel1-customerAppId.json",
+      "label": "EventApiComplianceApiTestPartnerAccount-twitterPartnerEventApiLabel1-customerAppId",
+      "created_date": "2014-07-18T21:26:02Z",
+      "compliance_enabled_date": "2014-07-18T20:17:20Z",
+      "stream_type": {
+        "name": "twitter/partner",
+        "display_name": "Partner",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47301,
+      "account_id": 332,
+      "product_enrollment_id": 3492,
+      "product_name": "Partner",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/streams/partner/lyon-test-parent-insights-marketing.json",
+      "label": "lyon-test-parent-insights-marketing",
+      "created_date": "2014-07-30T17:02:57Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/partner",
+        "display_name": "Partner",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46542,
+      "account_id": 286,
+      "product_enrollment_id": 2994,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/ewendelin/publishers/twitter/streams/track/dev.json",
+      "label": "dev",
+      "created_date": "2014-02-14T23:09:17Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46961,
+      "account_id": 331,
+      "product_enrollment_id": 3106,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/streams/track/dev.json",
+      "label": "dev",
+      "created_date": "2014-05-14T20:06:45Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46520,
+      "account_id": 323,
+      "product_enrollment_id": 3022,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/streams/track/powertrack.json",
+      "label": "powertrack",
+      "created_date": "2014-02-13T18:56:16Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47236,
+      "account_id": 366,
+      "product_enrollment_id": 3458,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/EventApiComplianceApiTestAccount/publishers/twitter/streams/track/powerTrack.json",
+      "label": "powerTrack",
+      "created_date": "2014-07-21T19:49:06Z",
+      "compliance_enabled_date": "2014-07-18T20:17:20Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46541,
+      "account_id": 286,
+      "product_enrollment_id": 2994,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/ewendelin/publishers/twitter/streams/track/prod.json",
+      "label": "prod",
+      "created_date": "2014-02-14T23:08:56Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46604,
+      "account_id": 331,
+      "product_enrollment_id": 3106,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/streams/track/prod.json",
+      "label": "prod",
+      "created_date": "2014-03-03T16:34:41Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47504,
+      "account_id": 334,
+      "product_enrollment_id": 3548,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/ChrisRomary/publishers/twitter/streams/track/prod.json",
+      "label": "prod",
+      "created_date": "2014-09-25T21:12:47Z",
+      "compliance_enabled_date": "2014-09-25T19:04:24Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47536,
+      "account_id": 332,
+      "product_enrollment_id": 3552,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/streams/track/review.json",
+      "label": "review",
+      "created_date": "2014-10-06T18:13:33Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46730,
+      "account_id": 343,
+      "product_enrollment_id": 3178,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/AccountsAPIIntegrationTestAccount/publishers/twitter/streams/track/stream1.json",
+      "label": "stream1",
+      "created_date": "2014-04-01T22:34:17Z",
+      "compliance_enabled_date": "2014-04-01T22:36:11Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46731,
+      "account_id": 343,
+      "product_enrollment_id": 3178,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/AccountsAPIIntegrationTestAccount/publishers/twitter/streams/track/stream2.json",
+      "label": "stream2",
+      "created_date": "2014-04-01T22:34:27Z",
+      "compliance_enabled_date": "2014-04-01T22:36:11Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46398,
+      "account_id": 2,
+      "product_enrollment_id": 2884,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/streams/track/test.json",
+      "label": "test",
+      "created_date": "2014-01-13T18:36:17Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46585,
+      "account_id": 336,
+      "product_enrollment_id": 3100,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/DanRichelsonComplianceTest1/publishers/twitter/streams/track/test.json",
+      "label": "test",
+      "created_date": "2014-02-27T21:40:52Z",
+      "compliance_enabled_date": "2014-03-31T18:50:20Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47089,
+      "account_id": 357,
+      "product_enrollment_id": 3388,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/dabbas/publishers/twitter/streams/track/test.json",
+      "label": "test",
+      "created_date": "2014-06-18T17:08:24Z",
+      "compliance_enabled_date": "2014-06-18T17:19:03Z",
+      "stream_type": {
+        "name": "twitter/track",
+        "display_name": "PowerTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46462,
+      "account_id": 2,
+      "product_enrollment_id": 3003,
+      "product_name": "PowerTrack Direct",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/rehydration_direct/activities.json",
+      "label": "activities",
+      "created_date": "2014-01-31T21:48:14Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/rehydration_direct",
+        "display_name": "PowerTrack Direct",
+        "delivery_type": "rehydration_direct",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46959,
+      "account_id": 286,
+      "product_enrollment_id": 3333,
+      "product_name": "PowerTrack Direct",
+      "external_href": "/accounts/ewendelin/publishers/twitter/rehydration_direct/activities.json",
+      "label": "activities",
+      "created_date": "2014-05-14T16:56:58Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/rehydration_direct",
+        "display_name": "PowerTrack Direct",
+        "delivery_type": "rehydration_direct",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46566,
+      "account_id": 332,
+      "product_enrollment_id": 3049,
+      "product_name": "PowerTrack Direct",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/rehydration_direct/activities.json",
+      "label": "activities",
+      "created_date": "2014-02-21T17:56:30Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/rehydration_direct",
+        "display_name": "PowerTrack Direct",
+        "delivery_type": "rehydration_direct",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46732,
+      "account_id": 343,
+      "product_enrollment_id": 3179,
+      "product_name": "PowerTrack Direct",
+      "external_href": "/accounts/AccountsAPIIntegrationTestAccount/publishers/twitter/rehydration_direct/activities.json",
+      "label": "activities",
+      "created_date": "2014-04-01T22:35:24Z",
+      "compliance_enabled_date": "2014-04-01T22:36:11Z",
+      "stream_type": {
+        "name": "twitter/rehydration_direct",
+        "display_name": "PowerTrack Direct",
+        "delivery_type": "rehydration_direct",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46827,
+      "account_id": 331,
+      "product_enrollment_id": 3106,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/replay/track/prod.json",
+      "label": "prod",
+      "created_date": "2014-04-17T15:54:34Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/track_replay",
+        "display_name": "PowerTrack Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46521,
+      "account_id": 323,
+      "product_enrollment_id": 3022,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/replay/track/replay.json",
+      "label": "replay",
+      "created_date": "2014-02-13T19:54:07Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/track_replay",
+        "display_name": "PowerTrack Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46656,
+      "account_id": 286,
+      "product_enrollment_id": 2994,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/ewendelin/publishers/twitter/replay/track/replayit.json",
+      "label": "replayit",
+      "created_date": "2014-03-13T21:51:43Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/track_replay",
+        "display_name": "PowerTrack Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46399,
+      "account_id": 2,
+      "product_enrollment_id": 2884,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/replay/track/test.json",
+      "label": "test",
+      "created_date": "2014-01-13T18:36:23Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/track_replay",
+        "display_name": "PowerTrack Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47444,
+      "account_id": 336,
+      "product_enrollment_id": 3100,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/DanRichelsonComplianceTest1/publishers/twitter/replay/track/test-replay.json",
+      "label": "test-replay",
+      "created_date": "2014-09-09T20:07:53Z",
+      "compliance_enabled_date": "2014-03-31T18:50:20Z",
+      "stream_type": {
+        "name": "twitter/track_replay",
+        "display_name": "PowerTrack Replay",
+        "delivery_type": "replay",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46657,
+      "account_id": 286,
+      "product_enrollment_id": 3140,
+      "product_name": "Rehydration",
+      "external_href": "/accounts/ewendelin/publishers/twitter/rehydration/activities.json",
+      "label": "activities",
+      "created_date": "2014-03-13T21:52:59Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/rehydration",
+        "display_name": "Rehydration",
+        "delivery_type": "rehydration",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46599,
+      "account_id": 331,
+      "product_enrollment_id": 3102,
+      "product_name": "Rehydration",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/rehydration/activities.json",
+      "label": "activities",
+      "created_date": "2014-03-03T15:39:59Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/rehydration",
+        "display_name": "Rehydration",
+        "delivery_type": "rehydration",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46523,
+      "account_id": 323,
+      "product_enrollment_id": 3028,
+      "product_name": "Rehydration",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/rehydration/rehydration.json",
+      "label": "rehydration",
+      "created_date": "2014-02-13T19:56:41Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/rehydration",
+        "display_name": "Rehydration",
+        "delivery_type": "rehydration",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46460,
+      "account_id": 2,
+      "product_enrollment_id": 2998,
+      "product_name": "Search API",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/streams/search/prod.json",
+      "label": "prod",
+      "created_date": "2014-01-31T16:42:40Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/search",
+        "display_name": "Search API",
+        "delivery_type": "search",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 4593,
+      "account_id": 286,
+      "product_enrollment_id": 1772,
+      "product_name": "Search API",
+      "external_href": "/accounts/ewendelin/publishers/twitter/streams/search/prod.json",
+      "label": "prod",
+      "created_date": "2013-09-19T19:28:17Z",
+      "compliance_enabled_date": "2014-02-26T21:35:55Z",
+      "stream_type": {
+        "name": "twitter/search",
+        "display_name": "Search API",
+        "delivery_type": "search",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 3,
+      "trial": false
+    },
+    {
+      "id": 46581,
+      "account_id": 323,
+      "product_enrollment_id": 3094,
+      "product_name": "Search API",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/streams/search/prod.json",
+      "label": "prod",
+      "created_date": "2014-02-26T20:35:34Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/search",
+        "display_name": "Search API",
+        "delivery_type": "search",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 47344,
+      "account_id": 331,
+      "product_enrollment_id": 3401,
+      "product_name": "Search API",
+      "external_href": "/accounts/lyon-test-parent/publishers/twitter/streams/search/prod.json",
+      "label": "prod",
+      "created_date": "2014-08-11T19:39:19Z",
+      "compliance_enabled_date": "2014-04-29T21:12:29Z",
+      "stream_type": {
+        "name": "twitter/search",
+        "display_name": "Search API",
+        "delivery_type": "search",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46965,
+      "account_id": 332,
+      "product_enrollment_id": 3334,
+      "product_name": "Search API",
+      "external_href": "/accounts/lyon-test-child/publishers/twitter/streams/search/prod.json",
+      "label": "prod",
+      "created_date": "2014-05-14T20:54:21Z",
+      "compliance_enabled_date": "2014-10-06T20:48:50Z",
+      "stream_type": {
+        "name": "twitter/search",
+        "display_name": "Search API",
+        "delivery_type": "search",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46754,
+      "account_id": 323,
+      "product_enrollment_id": 3022,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/cdoxsey/publishers/twitter/streams/usertrack/dev.json",
+      "label": "dev",
+      "created_date": "2014-04-04T15:58:28Z",
+      "compliance_enabled_date": "2014-03-21T19:55:39Z",
+      "stream_type": {
+        "name": "twitter/usertrack",
+        "display_name": "UserTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    },
+    {
+      "id": 46400,
+      "account_id": 2,
+      "product_enrollment_id": 2884,
+      "product_name": "PowerTrack",
+      "external_href": "/accounts/gnip-biz/publishers/twitter/streams/usertrack/test.json",
+      "label": "test",
+      "created_date": "2014-01-13T18:36:28Z",
+      "compliance_enabled_date": "2014-02-24T18:07:15Z",
+      "stream_type": {
+        "name": "twitter/usertrack",
+        "display_name": "UserTrack",
+        "delivery_type": "streams",
+        "publisher": {
+          "name": "twitter",
+          "display_name": "Twitter"
+        }
+      },
+      "state_id": 1,
+      "trial": false
+    }
+  ]
+}
