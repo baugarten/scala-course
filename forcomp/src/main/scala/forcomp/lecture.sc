@@ -1,36 +1,63 @@
-import forcomp.Anagrams
+type UserId = Long
 
-def isPrime(n: Int): Boolean = {
-  (2 until n).forall(n % _ != 0)
-}
-def addTerms(terms: Map[Int, Double], term: (Int, Double)) = {
-  term match {
-    case (exp, coef) =>
-      terms ++ Map(exp -> (coef + terms(exp)))
-  }
-}
+case class CandidateMetadata(
+  userIds: Seq[UserId],
+  numberOfGoodUsers: Int,
+  numberOfBadUsers: Int)
 
-def scalarProduct(xs: List[Double], ys: List[Double]): Double = (for {
-  x <- xs
-  ys <- ys
-} yield (x * ys)).sum
+case class ProfileGeoCandidate(
+  biolocation: String,
+  metadata: CandidateMetadata,
+  geoLocationId: String)
 
-class Poly(val terms: Map[Int, Double]) {
-  def +(other: Poly) =
-    new Poly(other.terms.foldLeft(Map(0 -> 0.0))(addTerms))
+def saveGoodCandidate(candidate: ProfileGeoCandidate, userId: UserId): Stitch[Unit] = {
 
 }
 
-//val anagrams = Anagrams.combinations(List(('a' -> 2), ('b'-> 2)))
-//anagrams.size
+def incrementUserCountsForCandidates()
 
-val x = List(('a', 1), ('d', 1), ('l', 1), ('r', 1))
-val y = List(('r', 1))
+def getCandidatesForLocation(biolocation: String): Stitch[Seq[ProfileGeoCandidate]] = ???
 
-Anagrams.subtract(x, y)
+def saveCandidate(candidate: ProfileGeoCandidate): Stitch[Unit] = ???
+type UserId = Long
 
-isPrime(7)
-isPrime(13)
-isPrime(14)
-isPrime(28)
-isPrime(53)
+case class CandidateMetadata(
+  userIds: Seq[UserId],
+  numberOfGoodUsers: Int,
+  numberOfBadUsers: Int)
+
+case class ProfileGeoCandidate(
+  biolocation: String,
+  metadata: CandidateMetadata,
+  geoLocationId: String)
+
+def saveGoodCandidate(candidate: ProfileGeoCandidate, userId: UserId): Stitch[Unit] = {
+
+}
+
+def incrementUserCountsForCandidates()
+
+def getCandidatesForLocation(biolocation: String): Stitch[Seq[ProfileGeoCandidate]] = ???
+
+def saveCandidate(candidate: ProfileGeoCandidate): Stitch[Unit] = ???
+type UserId = Long
+
+case class CandidateMetadata(
+  userIds: Seq[UserId],
+  numberOfGoodUsers: Int,
+  numberOfBadUsers: Int)
+
+case class ProfileGeoCandidate(
+  biolocation: String,
+  metadata: CandidateMetadata,
+  geoLocationId: String)
+
+def saveGoodCandidate(candidate: ProfileGeoCandidate, userId: UserId): Stitch[Unit] = {
+
+}
+
+def incrementUserCountsForCandidates()
+
+def getCandidatesForLocation(biolocation: String): Stitch[Seq[ProfileGeoCandidate]] = ???
+
+def saveCandidate(candidate: ProfileGeoCandidate): Stitch[Unit] = ???

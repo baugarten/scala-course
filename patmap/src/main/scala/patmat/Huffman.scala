@@ -22,7 +22,10 @@ object Huffman {
   case class Fork(left: CodeTree, right: CodeTree, chars: List[Char], weight: Int) extends CodeTree
   case class Leaf(char: Char, weight: Int) extends CodeTree
 
+
+
   // Part 1: Basics
+
   def weight(tree: CodeTree): Int = tree match {
     case Fork(_, _, _, weight) => weight
     case Leaf(_, weight) => weight
@@ -85,20 +88,12 @@ object Huffman {
    * head of the list should have the smallest weight), where the weight
    * of a leaf is the frequency of the character.
    */
-  def makeOrderedLeafList(freqs: List[(Char, Int)]): List[Leaf] = freqs
-    .sortBy(_._2)
-    .map { case (char, weight) =>
-      Leaf(char, weight)
-    }
-
-  def makeOrderedLeafList2(freqs: List[(Char, Int)]): List[Leaf] = {
-    def insertIntoSortedList(leaf: Leaf, leaves: List[Leaf]): List[Leaf] = ???
-
-    if (freqs.isEmpty) Nil
-    else {
-      val head: (Char, Int) = freqs.head
-      insertIntoSortedList(Leaf(head._1, head._2), makeOrderedLeafList2(freqs.tail))
-    }
+  def makeOrderedLeafList(freqs: List[(Char, Int)]): List[Leaf] = {
+    freqs
+      .sortBy(_._2)
+      .map { case (char, weight) =>
+        Leaf(char, weight)
+      }
   }
 
   /**
@@ -119,12 +114,12 @@ object Huffman {
    * unchanged.
    */
   def combine(trees: List[CodeTree]): List[CodeTree] = {
-    if (trees.size < 2) trees
+    if (singleton(trees)) trees
     else {
       val first = trees.head
       val second = trees.tail.head
       (makeCodeTree(first, second) :: trees.tail.tail)
-        .sortBy(weight)
+        .sortBy(weight(_))
     }
   }
 
@@ -272,10 +267,6 @@ object Huffman {
    */
   def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
     val table = convert(tree)
-    text.flatMap { char =>
-      codeBits(table)(char)
-    }
+    text.flatMap(codeBits(table)(_))
   }
-
-  List(1,0,1,0, 1, 0,1,1,1)
 }

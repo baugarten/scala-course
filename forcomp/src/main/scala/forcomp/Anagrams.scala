@@ -94,19 +94,25 @@ object Anagrams {
     * Note that the order of the occurrence list subsets does not matter -- the subsets
     * in the example above could have been displayed in some other order.
     */
-  def combinations(occurrences: Occurrences): List[Occurrences] = {
-    def mapCombinations(occ: Iterable[Char], acc: Set[List[Char]]): Set[List[Char]] = {
-      if (occ.isEmpty) acc
-      else mapCombinations(occ.tail, acc ++ acc.map(occ.head :: _ ))
+  def combinations(occurrences: Occurrences) = {
+    def mapCombinations(
+      occ: Iterable[Char],
+      acc: Set[List[Char]]
+    ): Set[List[Char]] = occ match {
+      case h :: tail =>
+        mapCombinations(
+          occ.tail,
+          acc ++ acc.map(occ.head :: _ )
+        )
+      case _ => acc
     }
 
-    def flatten(occ: Occurrences): Iterable[Char] = {
+    def flatten(occ: Occurrences) =
       occ.toMap.flatMap({ case (c, n) =>
           for (i <- 1 to n) yield c
       })
-    }
 
-    mapCombinations(flatten(occurrences), Set(List()))
+    mapCombinations(flatten(occurrences), Set(Nil))
       .toList
       .map(xs => wordOccurrences(xs.mkString))
   }
@@ -121,11 +127,19 @@ object Anagrams {
     * Note: the resulting value is an occurrence - meaning it is sorted
     * and has no zero-entries.
     */
-  def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+  def subtract2(x: Occurrences, y: Occurrences): Occurrences = {
     val occurrenceMap: Map[Char, Int] = x.toMap withDefaultValue 0
     toOccurences(y.foldLeft(occurrenceMap) { case (occurrences, (char, count)) =>
       occurrences.updated(char, occurrences(char) - count )
     }.toList)
+  }
+
+  def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+    toOccurences(x.filterNot({ case (c, _) => y.toMap.contains(c) }) ++ (for {
+      ys <- y
+      xs <- x
+      if ys == xs
+    } yield (xs._1, xs._2 - ys._2)))
   }
 
   /** Returns a list of all anagram sentences of the given sentence.
